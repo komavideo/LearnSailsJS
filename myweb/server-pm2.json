@@ -1,0 +1,11 @@
+{
+    "name": "myweb",
+    "script": "app.js",
+    "port": 8080,
+    "env": {
+        "NODE_ENV": "production"
+    },
+    "options": [
+        ""
+    ]
+}
